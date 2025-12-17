@@ -92,9 +92,9 @@ MIT License
 
 ## Author
 
-GitHub: https://github.com/your-handle  
-Public contact (email): your-name@proton.me  
-Public contact (X): https://x.com/your-handle  
+GitHub: https://github.com/almsseason  
+Public contact (email): alms.season_0p@icloud.com  
+Public contact (X): https://x.com/tomasdressler13  
 
 ## Testnet Deployment (Base Sepolia)
 
@@ -104,24 +104,17 @@ Network: Base Sepolia
 chainId (decimal): 84532  
 Explorer: https://sepolia.basescan.org  
 
-Contract #1 address:  
-your_adress  
+Contract "imports" address:  
+0x184d8217d260e436d80cf35fa204cf0e2bd299b6  
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
+- https://sepolia.basescan.org/address/0x184d8217d260e436d80cf35fa204cf0e2bd299b6  
+- https://sepolia.basescan.org/0x184d8217d260e436d80cf35fa204cf0e2bd299b6/0#code  
 
-Contract #2 address (optional):  
-your_adress  
-
-Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
-
-Contract #3 address (optional):  
-your_adress  
+Contract "errors" address (optional):  
+0x56601c71847e70b1c8ea1d6a844b4724cb1cae94  
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
+- https://sepolia.basescan.org/address/0x56601c71847e70b1c8ea1d6a844b4724cb1cae94  
+- https://sepolia.basescan.org/0x56601c71847e70b1c8ea1d6a844b4724cb1cae94/0#code  
 These testnet deployments provide a controlled environment for validating Base tooling, account abstraction flows, and read-only onchain interactions prior to Base Mainnet usage.
